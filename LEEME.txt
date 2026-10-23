@@ -1,0 +1,16 @@
+WEB DE ISMAEL LAMHARMEL — PSICÓLOGO SANITARIO
+
+VERSIÓN ACTUALIZADA CON TRES FOTOGRAFÍAS.
+
+Para verla sin conexión, abre index.html en el navegador. No cambies la carpeta imagenes.
+
+PUBLICAR GRATIS (GitHub Pages):
+1. Crea una cuenta gratuita en github.com.
+2. Crea un repositorio público, por ejemplo: ismael-psicologia.
+3. Sube index.html y la carpeta imagenes (con sus 3 archivos).
+4. Ve a Settings > Pages. En Build and deployment selecciona Deploy from a branch, rama main y carpeta /(root); guarda.
+5. Cuando GitHub termine de publicar, el sitio tendrá una URL similar a https://TUUSUARIO.github.io/ismael-psicologia/
+
+Antes de promocionar la web: confirma áreas de atención, dirección exacta, habilitación/registro sanitario y añade aviso legal y privacidad completos según corresponda. No se ha configurado ninguna recogida de datos de pacientes ni un sistema de reserva propio.
+
+Teléfono: 674 494 775. Colegiado: AO13431.

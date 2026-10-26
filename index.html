@@ -43,5 +43,33 @@
   toggle.addEventListener('click',()=>{const open=links.classList.toggle('open');toggle.setAttribute('aria-expanded',String(open));toggle.setAttribute('aria-label',open?'Cerrar menú':'Abrir menú');});
   links.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{links.classList.remove('open');toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','Abrir menú');}));
 </script>
+  
+<section id="opiniones" style="padding:70px 20px; background:#f7f5f0; text-align:center;">
+  <div style="max-width:750px; margin:auto;">
+    <h2 style="font-size:36px; margin-bottom:18px;">
+      Opiniones en Google
+    </h2>
+    <p style="font-size:17px; line-height:1.7;">
+      Conoce las valoraciones que han compartido
+      públicamente en mi perfil de Google.
+    </p>
+    <div style="font-size:32px; color:#b68a42; margin:22px 0;">
+      ★★★★★
+    </div>
+    <p style="font-size:18px; margin-bottom:28px;">
+      Valoración de 5,0 sobre 5 · 8 reseñas
+    </p>
+    <a href="https://www.google.com/maps/place/Ismael+Lamharmel+Psic%C3%B3logo/@37.4918831,-2.7814277,17z/data=!3m1!4b1!4m6!3m5!1s0xd6fc334d56db8e1:0xe5da2b701b9c4ab6!8m2!3d37.4918789!4d-2.7788528!16s%2Fg%2F11zc5kcdss"
+       target="_blank" rel="noopener noreferrer"
+       style="display:inline-block; padding:15px 28px; background:#526b5a; color:white; border-radius:30px; text-decoration:none;">
+      Leer las reseñas en Google
+    </a>
+    <p style="font-size:12px; margin-top:20px;">
+      Valoración según las últimas reseñas consultadas.
+      La puntuación puede variar.
+    </p>
+  </div>
+</section>
+  
 </body>
 </html>
